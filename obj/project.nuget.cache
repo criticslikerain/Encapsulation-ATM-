@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RMHYfH7YPtA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\SOMETHING IMPORTANT\\ATM-INOCANDO\\ATM-INOCANDO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

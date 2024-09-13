@@ -1,0 +1,36 @@
+C:\Users\pc\Desktop\ATM-INOCANDO\bin\Debug\net7.0\ATM-INOCANDO.exe
+C:\Users\pc\Desktop\ATM-INOCANDO\bin\Debug\net7.0\ATM-INOCANDO.deps.json
+C:\Users\pc\Desktop\ATM-INOCANDO\bin\Debug\net7.0\ATM-INOCANDO.runtimeconfig.json
+C:\Users\pc\Desktop\ATM-INOCANDO\bin\Debug\net7.0\ATM-INOCANDO.dll
+C:\Users\pc\Desktop\ATM-INOCANDO\bin\Debug\net7.0\ATM-INOCANDO.pdb
+C:\Users\pc\Desktop\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.AssemblyInfo.cs
+C:\Users\pc\Desktop\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.dll
+C:\Users\pc\Desktop\ATM-INOCANDO\obj\Debug\net7.0\refint\ATM-INOCANDO.dll
+C:\Users\pc\Desktop\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.pdb
+C:\Users\pc\Desktop\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.genruntimeconfig.cache
+C:\Users\pc\Desktop\ATM-INOCANDO\obj\Debug\net7.0\ref\ATM-INOCANDO.dll
+C:\Users\pc\Desktop\ATM-INOCANDO\bin\Debug\net7.0\System.Speech.dll
+C:\Users\pc\Desktop\ATM-INOCANDO\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Speech.dll
+C:\Users\pc\Desktop\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.csproj.CopyComplete
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\bin\Debug\net7.0\ATM-INOCANDO.exe
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\bin\Debug\net7.0\ATM-INOCANDO.deps.json
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\bin\Debug\net7.0\ATM-INOCANDO.runtimeconfig.json
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\bin\Debug\net7.0\ATM-INOCANDO.dll
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\bin\Debug\net7.0\ATM-INOCANDO.pdb
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\bin\Debug\net7.0\System.Speech.dll
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Speech.dll
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.AssemblyInfo.cs
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOC.B67BAA61.Up2Date
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.dll
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\obj\Debug\net7.0\refint\ATM-INOCANDO.dll
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.pdb
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\obj\Debug\net7.0\ATM-INOCANDO.genruntimeconfig.cache
+C:\Users\pc\Desktop\SOMETHING IMPORTANT\ATM-INOCANDO\obj\Debug\net7.0\ref\ATM-INOCANDO.dll
